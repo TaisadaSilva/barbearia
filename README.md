@@ -30,5 +30,5 @@
 
     JavaScript
 
-<img src="./src/img/layout.gif" width="600px" />
+<img src="./src/img/layout.gif" width="1000px" />
 
