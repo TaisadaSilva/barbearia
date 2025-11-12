@@ -1,19 +1,18 @@
 <h1>💈 Barbearia Estilo Fino</h1>
 
-<<<<<<< HEAD
+
 <p>Projeto desenvolvido para uma barbearia moderna e sofisticada, com foco em um visual elegante e responsivo.</p>
 
 <p>A página inicial apresenta um banner em tela cheia, com uma imagem de fundo que cobre todo o espaço de forma proporcional, destacando o slogan da marca e um botão interativo para agendamento de horário.</p>
 
 <p>O menu de navegação é transparente e muda de cor ao rolar a página, garantindo uma experiência fluida e agradável ao usuário.</p>
-=======
+
 <h2>✨ Principais recursos</h2>
 
 
     Layout totalmente responsivo
->>>>>>> 017bf90 (atualização gif)
 
-    Banner com imagem de fundo ajustável (background-size: cover)
+    Banner com imagem de fundo ajustável
 
     Navbar transparente com efeito de cor ao rolar
 
