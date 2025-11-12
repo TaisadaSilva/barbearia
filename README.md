@@ -1,10 +1,10 @@
-💈 Barbearia Estilo Fino
+<h1>💈 Barbearia Estilo Fino</h1>
 
-Projeto desenvolvido para uma barbearia moderna e sofisticada, com foco em um visual elegante e responsivo.
+<p>Projeto desenvolvido para uma barbearia moderna e sofisticada, com foco em um visual elegante e responsivo.</p>
 
-A página inicial apresenta um banner em tela cheia, com uma imagem de fundo que cobre todo o espaço de forma proporcional, destacando o slogan da marca e um botão interativo para agendamento de horário.
+<p>A página inicial apresenta um banner em tela cheia, com uma imagem de fundo que cobre todo o espaço de forma proporcional, destacando o slogan da marca e um botão interativo para agendamento de horário.</p>
 
-O menu de navegação é transparente e muda de cor ao rolar a página, garantindo uma experiência fluida e agradável ao usuário.
+<p>O menu de navegação é transparente e muda de cor ao rolar a página, garantindo uma experiência fluida e agradável ao usuário.</p>
 
 ✨ Principais recursos
 
